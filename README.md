@@ -1,7 +1,7 @@
 # Chip-Retail-Uplift-Testing
-Chip Retail Uplift Testing & Experimentation
+## Chip Retail Uplift Testing & Experimentation
 
-📌 Project Overview
+### 📌 Project Overview
 
 This project evaluates the impact of a retail trial intervention on chip sales using uplift testing and controlled experimentation.
 The goal is to determine whether trial stores experienced a statistically meaningful improvement compared to matched control stores, and to translate those findings into actionable business recommendations.
@@ -9,7 +9,7 @@ The goal is to determine whether trial stores experienced a statistically meanin
 This analysis mirrors a real-world retail analytics workflow:
 data preparation → control selection → trial evaluation → uplift measurement → recommendation.
 
-🧠 Key Questions
+### 🧠 Key Questions
 
 - Did the trial stores outperform comparable control stores?
 
@@ -19,7 +19,7 @@ data preparation → control selection → trial evaluation → uplift measureme
 
 - Should the intervention be rolled out, modified, or discontinued?
 
-📊 Data Description
+### 📊 Data Description
 
 The project uses transactional and customer behavior data from a grocery retail context.
 
@@ -34,7 +34,7 @@ Main datasets
 ⚠️ Large files are tracked using Git LFS.
 If cloning this repository, ensure Git LFS is installed.
 
-🔬 Methodology
+### 🔬 Methodology
 
 1. Exploratory Data Analysis (EDA)
 
@@ -78,7 +78,7 @@ If cloning this repository, ensure Git LFS is installed.
 
 - Practical implications for rollout, refinement, or discontinuation
 
-📈 Key Outputs
+### 📈 Key Outputs
 
 -Trial vs control performance visualizations
 
